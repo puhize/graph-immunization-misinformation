@@ -1,0 +1,6 @@
+strategy,budget,immunized_count,total_infected_mean,total_infected_std,peak_infected_mean,peak_infected_std,duration_mean,duration_std
+community_bridge,0.01,40,3896.14,100.76,3026.16,133.07,200.0,0.0
+community_bridge,0.05,201,2809.2,588.04,1959.47,402.92,200.0,0.0
+community_bridge,0.1,403,2182.23,502.78,1540.36,342.07,200.0,0.0
+community_bridge,0.15,605,1645.58,404.49,1191.22,289.89,200.0,0.0
+community_bridge,0.2,807,1446.12,345.62,1050.7,250.6,200.0,0.0
