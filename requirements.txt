@@ -1,0 +1,12 @@
+# Pinned to the versions used for this thesis (Python 3.12).
+# Note: imported as `import community` but installed as python-louvain.
+networkx==3.6.1
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+matplotlib==3.10.8
+python-louvain==0.16
+
+# Optional — only for scripts/leiden_robustness.py (Louvain-vs-Leiden check):
+# igraph
+# leidenalg

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the thesis below."
+title: "Comparison of graph-based algorithmic strategies for controlling the spread of misinformation"
+abstract: >-
+  Code accompanying a bachelor thesis comparing graph-based node-immunization
+  strategies (random, degree, betweenness centrality, community bridge) for
+  containing misinformation spread, modeled as a stochastic SIR process on the
+  SNAP Facebook and Twitter ego networks, with a community-level fairness
+  analysis using the Gini coefficient.
+type: software
+authors:
+  - family-names: Rexha
+    given-names: Puhiza
+license: MIT
+year: 2026
+references:
+  - type: thesis
+    title: "Krahasimi i strategjive të algoritmeve të bazuara në graf për kontrollimin e shpërndarjes së dezinformimit"
+    authors:
+      - family-names: Rexha
+        given-names: Puhiza
+    institution:
+      name: "University of Prishtina, Faculty of Mathematics and Natural Sciences"
+    year: 2026

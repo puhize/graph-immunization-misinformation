@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Editors / tooling
+.idea/
+.vscode/
+scratch/
+outputs/
+
+# Local-only archive (kept on disk, deliberately out of the repo)
+archive/
+
+# Large network data — download from SNAP (see README)
+data/twitter_combined.txt
+
+# Thesis documents and Word lock files
+*.docx
+~$*
+
+# Backups
+*.zip
+
+# Large precomputed caches for the Twitter network — regenerable, and the raw
+# Twitter graph itself is not committed (see README). Facebook caches are kept.
+results/cache/*n81306*
