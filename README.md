@@ -42,7 +42,7 @@ scripts/               run + analysis (run from the repo root)
   analyze_twitter_tails.py   medians / Mann–Whitney / extinction tails (Twitter)
   validate_approx_betweenness.py   k=500 approximation vs exact
   leiden_robustness.py   Louvain-vs-Leiden bridge-set overlap
-  analyze_vitality.py, rerun_bridge.py, update_csvs.py, cleanup.py
+  analyze_vitality.py, rerun_bridge.py, update_csvs.py
 tests/                 unit tests
 data/                  facebook_combined.txt (committed); twitter_combined.txt (download — see below)
 results/               raw/ CSVs, figures (*.png), cache/ (precomputed centralities)
